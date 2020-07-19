@@ -1,0 +1,37 @@
+/* css document*/
+
+
+.mainTitle{
+	color:#800033;
+	font-size: 70px;
+	font-family: 'Aladin';
+	margin-bottom:- 100px;
+	text-align: center;
+	padding: 0px;
+}
+
+.sectionsCenter{
+	text-align: center;
+
+
+
+}
+
+.sectionsStyle{
+	font-size: 45px;
+	color:#800033;
+	/*background-color:#E5B0A6;*/
+	font-family: 'Aladin';
+	padding: 40px;	
+	
+
+
+}
+
+.background{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+	width: 1600px;
+  z-index: -1;
+}

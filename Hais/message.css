@@ -1,0 +1,134 @@
+#title {
+	font-size: 60px;
+	background-color: pink;
+	position: relative;
+	bottom: 40px;
+}
+
+#subtitle {
+	font-size: 30px;
+	color: white;
+}
+
+#chat-subtitle {
+	font-size: 30px;
+	color: white;
+}
+
+#link-student {
+	background-color: red;
+	padding: 20px;
+	border: 2px solid white;
+}
+
+#link-teacher {
+	background-color: orange;
+	padding: 20px;
+	border: 2px solid white;
+	color: black;
+}
+
+#link-lawyer {
+	background-color: yellow;
+	padding: 20px;
+	border: 2px solid black;
+	color: black;
+}
+
+#link-psychologist {
+	background-color: green;
+	padding: 20px;
+	border: 2px solid white;
+	color: white;
+}
+
+#link-therapist {
+	background-color: blue;
+	padding: 20px;
+	border: 2px solid white;
+	color: white;
+}
+
+#link-police {
+	background-color: violet;
+	padding: 20px;
+	border: 2px solid white;
+	color: white;
+}
+
+#link-home {
+	color: black;
+	position: relative;
+	bottom: 180px;
+	left: 600px;
+}
+
+#link-lobby {
+	color: black;
+	position: relative;
+	bottom: 230px;
+	left: 1230px;
+}
+
+#student-table, #teacher-table, #lawyer-table, #psychologist-table, #therapist-table, #police-table {
+	position: relative;
+	bottom: 50px;
+}
+
+
+
+.center {
+	text-align: center;
+}
+
+.spaceout {
+	margin: 150px;
+}
+
+.professions {
+	font-size: 25px;
+}
+
+.no-underline {
+	text-decoration: none;
+}
+
+.professional-pic {
+	width: 96px;
+	height: 96px;
+}
+
+.professional-info {
+	font-size: 24px;
+	margin-left: 24px;
+}
+
+.textbox {
+	position: relative;
+	top: 50px;
+}
+
+.textdisplay {
+	position: relative;
+	bottom: 50px;
+}
+
+body {
+	background-image: url("http://wallpoper.com/images/00/32/39/85/minimalistic-gray_00323985.jpg");
+}
+
+a:link {
+	color: white;
+}
+
+a:visited {
+	color: white;
+}
+
+a:hover {
+	color: white;
+}
+
+a:active {
+	color: white;
+}
